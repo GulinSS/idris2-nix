@@ -1,0 +1,31 @@
+{
+  "sources": {
+    "filepath": {
+      "source": {
+        "url": "https://github.com/stefan-hoeck/idris2-filepath",
+        "rev": "63dab635a40fd1ee19c07cd789c9099b357d92d1",
+        "sha256": "sha256-lyKevOBgWhDvHlLkSkjBsMNXPhPr0EEhhAPJuKpCF7A="
+      },
+      "ipkg": "filepath.ipkg",
+      "name": "filepath"
+    },
+    "toml": {
+      "source": {
+        "url": "https://github.com/cuddlefishie/toml-idr",
+        "rev": "7e5c4f3cc2ff028f665653b43c4c1f9b0a8211e2",
+        "sha256": "sha256-9sOLSTXK6SuMzjelaR8YNtTJROHouC2Yd8bjmOhGe9g="
+      },
+      "ipkg": "toml.ipkg",
+      "name": "toml"
+    }
+  },
+  "sorted": [
+    "filepath",
+    "toml"
+  ],
+  "idris2": {
+    "url": "https://github.com/idris-lang/Idris2",
+    "rev": "182bcff0ff3566db23b986c54ce3516d0f222a0f",
+    "sha256": "sha256-qZdBV/dOXbZZZUBTkp8Kf3JG4GSrKv7jgVhplG/xecg="
+  }
+}

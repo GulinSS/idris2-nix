@@ -1,0 +1,11 @@
+{
+  "lsp-lib": {
+    "source": {
+      "url": "https://github.com/idris-community/LSP-lib",
+      "rev": "b54136be0656c5040397c5a83220b350ea3f29cc",
+      "sha256": "sha256-C83mH8vzGcV2xcRNUxhks5kFyMkqzCN50cxryyLBV1U="
+    },
+    "ipkg": "lsp-lib.ipkg",
+    "name": "lsp-lib"
+  }
+}

@@ -1,0 +1,5 @@
+.idea
+.vscode
+.DS_Store
+.idr2nix
+src/hello/build

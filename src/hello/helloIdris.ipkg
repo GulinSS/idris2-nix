@@ -1,0 +1,6 @@
+package helloIdris
+
+modules = helloIdris
+
+main = helloIdris
+executable = helloIdris
